@@ -33,3 +33,9 @@ jwt:
   phrase:
 
 dominio:
+
+redsys:
+  params:
+    merchan_code:
+    terminal:
+    signature:
